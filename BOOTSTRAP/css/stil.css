@@ -1,0 +1,68 @@
+
+.omesajalanı{
+	background-color: #f5f5f5;
+	height: 120px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	border-radius: 5px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+
+}
+.MKProfilResmi{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.omesaj{
+	margin-top: 25px;
+	margin-left: 15px;
+
+}
+
+.ogma2{
+	margin-top: 15px;
+	margin-left: 80px;
+	margin-bottom: 25px;
+	 
+}
+.MesajKutusuAlanı{
+	padding-top: -5px;
+	margin-top: 15px;
+	padding-bottom: 15px;
+	background-color: #f5f5f5;
+	
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	border-radius: 5px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+
+}
+
+
+
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}

@@ -1,0 +1,46 @@
+.divtemel{
+	
+	
+	border-radius: 5px;
+	background-color: #f5f5f5;
+}
+.img1{
+	margin-top: 7px;
+	border-radius: 50%;
+	height: 40px;
+	width: 40px;
+}
+.imgprofil{
+	height: 100px;
+	width: 100x;
+	border-radius: 5px;
+	
+}
+.paylasım_profil{
+	margin-top: 14px;
+	margin-left: 60px;
+	font-size: 17px;
+}
+.paylasım_icerik{
+	height: 100px
+	margin-left: 5px;
+	margin-bottom: 10px;
+	font-size: 15px;
+	text-align: left;
+	word-wrap:break-word;
+}
+.profilorigin{
+	margin-left: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+}
+
+.divprofil{
+	
+	border-style: solid;
+	border-width: thick;
+	border-color: blue
+	border-radius: 5px;
+	background-color: #f5f5f5;
+}
